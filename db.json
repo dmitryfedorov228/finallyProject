@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "title": "Google Pixel Buds A-Series",
+      "images": [
+        "https://lh3.googleusercontent.com/PP_Krv_Ea5IRMXPTcZYxDDcinV-hy_IM0v2QaIZMXQQ4F2qFkfx9k8nxVFLKaPSXjMypRdS2qy1k9Pk97jSe39sWHDVJROXR9IY=s0"
+      ],
+      "id": 6
+    },
+    {
+      "title": "k;l",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/2018-subaru-crosstrek-1545168646.jpg"
+      ],
+      "price": 90,
+      "id": 7
+    },
+    {
+      "title": "dghfhfghfgh",
+      "images": [
+        "https://lh3.googleusercontent.com/PP_Krv_Ea5IRMXPTcZYxDDcinV-hy_IM0v2QaIZMXQQ4F2qFkfx9k8nxVFLKaPSXjMypRdS2qy1k9Pk97jSe39sWHDVJROXR9IY=s0"
+      ],
+      "price": 1231323,
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "email": "sdf@gmail.com",
+      "password": "$2a$10$gDVz/tRP5.nADJM03Jyt6eCVEXvUChBeO9pWsy0bsbs5KrHzJuF1q",
+      "id": 1
+    },
+    {
+      "email": "sdewrwf@gmail.com",
+      "password": "$2a$10$2/A9ZDLHCbCA4xUwr/nOreTvEuNimj.md2riCVYd3jkctjnHB17CW",
+      "id": 2
+    },
+    {
+      "email": "maslodimasta@gmail.com",
+      "password": "$2a$10$jG.xqxxN5C1C9X1LzvAaMOOzbPv7n/19Iqs2fR0Q0aase6DFepXRi",
+      "id": 3
+    },
+    {
+      "email": "fghfgfhg@gmail.com",
+      "password": "$2a$10$Cv1qdUArlQQgMjRp6Tt7DO.jsYTly1Ql1bkOA4YXrD8diQPYfIrPe",
+      "id": 4
+    },
+    {
+      "email": "dima@gmail.com",
+      "password": "$2a$10$CcsAAJAbnxV8oGcJ.XuxdekdHWRZjpTI2oTGdOt/H.Srckkw/daxS",
+      "id": 5
+    },
+    {
+      "email": "test@gmail.com",
+      "password": "$2a$10$yrQnBMrZp3VqhFIjU6XjhuHnXlr/ixw9Gs59KPHuy6uAQAwfraMg6",
+      "id": 6
+    }
+  ]
+}
